@@ -2,7 +2,7 @@
 
 ### Hi I'm Armin 👋
 
-I am a data scientist who just wanted to publish my trained models. One leads to another, I found myself working with a back-end framework to serve it. Many years passed and now I love working in both areas 😃 (who am I kidding? Nobody can love anything more than Data Science 😜)
+I am a data scientist who just wanted to publish my trained models. One led to another, I found myself working with a back-end framework to serve it. Many years passed and now I love working in both areas 😃 (who am I kidding? Nobody can love anything more than Data Science 😜)
 
 ### 📈: Data Science Tools :
 <div>
