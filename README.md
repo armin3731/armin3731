@@ -2,7 +2,9 @@
 
 ### Hi I'm Armin 👋🏼
 
-I am a data scientist who just wanted to deploy my trained models. One led to another, I found myself working with a back-end framework to serve it. Many years passed and now I love working in both areas 😃 (who am I kidding? Nobody can love anything more than Data Science 😜)
+I am a data scientist who just wanted to deploy my trained models. One led to another, I found myself working with a back-end framework to serve it. Many years passed and now I love working in both areas 😃 (who am I kidding? Nobody can love anything more than Data Science 😜).
+Now I'm PhD student working in the field of Optical Engineering that uses Machine Learning to create and develop devices and software related to optics...
+They may sound irrelevant, but believe me they are... 
 
 ### 📈: Data Science Tools :
 <div>
