@@ -2,9 +2,13 @@
 
 ### Hi I'm Armin 👋🏼
 
-I am a data scientist who just wanted to deploy my trained models. One led to another, I found myself working with a back-end framework to serve it. Many years passed and now I love working in both areas 😃 (who am I kidding? Nobody can love anything more than Data Science 😜).
-Now I'm PhD student working in the field of Optical Engineering that uses Machine Learning to create and develop devices and software related to optics...
-They may sound irrelevant, but believe me they are not... 
+I started my career determined to be a distinguished Data Scientist 📈, predicting the future with elegant algorithms ✨. Then, the universe intervened. Specifically, the deployment process intervened 🚧.
+
+I got immediately sidetracked, diving deep into the messy trenches of backend frameworks 💻, and accidentally became a pretty decent developer 🛠️. I blame the sheer thrill of watching a model finally run without immediate, spectacular failure 💥.
+
+But stability is boring 😴, so my career took a spectacular left turn: I'm now a PhD student 🎓 in Optical Engineering 🔭. Yes, I literally went from manipulating data on servers to arguing with light beams 💡. It sounds insane, but trust me, the skills are interconnected. Why? Because I now use Machine Learning to design innovative optical devices.
+
+This proves my algorithms are powerful enough to boss around photons 👑. It's either genius, or evidence of a deep-seated commitment issue 🤔. Either way, the skills transfer! 🤝
 
 ### 📈: Data Science Tools :
 <div>
