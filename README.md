@@ -1,5 +1,6 @@
-### Data Scientists + Back-end Developer
-
+### Multi-Disciplinary Engineer 
+#### Specializing in Optics, Data Science, and Back-end Development
+-------------
 ### Hi I'm Armin 👋🏼
 
 I started my career determined to be a distinguished Data Scientist 📈, predicting the future with elegant algorithms ✨. Then, the universe intervened. Specifically, the deployment process intervened 🚧.
