@@ -3,13 +3,13 @@
 -------------
 ### Hi I'm Armin 👋🏼
 
-I started my career determined to be a distinguished Data Scientist 📈, predicting the future with elegant algorithms ✨. Then, the universe intervened. Specifically, the deployment process intervened 🚧.
+I began as an Optical Engineering undergraduate 🔭, fully convinced I’d spend my life bending light to my will. Still, somewhere between Zemax optics design and too many hours staring at interferograms, I got hooked on data processing. The logic was simple: landing a job in optics looked tough, and data science felt like the shiny new frontier. So I sprinted toward it with questionable sanity and a lot of enthusiasm.
 
-I got immediately sidetracked, diving deep into the messy trenches of backend frameworks 💻, and accidentally became a pretty decent developer 🛠️. I blame the sheer thrill of watching a model finally run without immediate, spectacular failure 💥.
+I set out to become a Data Scientist 📈, determined to predict the future with neat algorithms ✨. Then reality introduced me to deployment. That single word rerouted my life. Before I knew it, I was wrestling backend frameworks 💻, fixing pipelines, and becoming an accidental developer 🛠️. Apparently I enjoy suffering in multiple dimensions.
 
-But stability is boring 😴, so my career took a spectacular left turn: I'm now a PhD student 🎓 in Optical Engineering 🔭. Yes, I literally went from manipulating data on servers to arguing with light beams 💡. It sounds insane, but trust me, the skills are interconnected. Why? Because I now use Machine Learning to design innovative optical devices.
+Eventually, monotony won the battle against my attention span, and my path twisted again. Now I’m a PhD student 🎓 in Optical Engineering, right back where the light beams live. It looks chaotic, but it isn’t. My old optical foundation and my newer machine-learning obsession finally teamed up.
 
-This proves my algorithms are powerful enough to boss around photons 👑. It's either genius, or evidence of a deep-seated commitment issue 🤔. Either way, the skills transfer! 🤝
+These days, I use deep learning to push the limits of optical design, essentially getting photons to reveal more through my models 👑. Whether that’s brilliance or a sign of long-term commitment issues is up for debate, but the skills really do blend together 🤝.
 
 ### 📈: Data Science Tools :
 <div>
