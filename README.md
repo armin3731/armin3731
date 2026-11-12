@@ -11,6 +11,14 @@ Eventually, monotony won the battle against my attention span, and my path twist
 
 These days, I use deep learning to push the limits of optical design, essentially getting photons to reveal more through my models 👑. Whether that’s brilliance or a sign of long-term commitment issues is up for debate, but the skills really do blend together 🤝.
 
+### 🔭: Optical Design Tools :
+<div>
+  <img src="https://avatars.githubusercontent.com/u/272874188?s=200&v=4" title="Optiland" alt="Optiland" width="50" height="50"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/66023092?s=200&v=4" title="Ansys Zemax OpticStudio" alt="Ansys Zemax OpticStudio" width="50" height="50"/>&nbsp;
+</div>
+
+
+
 ### 📈: Data Science Tools :
 <div>
 
