@@ -3,15 +3,11 @@
 -------------
 ### Hi I'm Armin 👋🏼
 
-I began as an Optical Engineering undergraduate 🔭, fully convinced I’d spend my life bending light to my will. Still, somewhere between Zemax optics design and too many hours staring at interferograms, I got hooked on data processing. The logic was simple: landing a job in optics looked tough, and data science felt like the shiny new frontier. So I sprinted toward it with questionable sanity and a lot of enthusiasm.
+I started in Optical Engineering to control light 🔦, switched to Data Science because everyone was talking about it 📈, and accidentally became a software plumber fixing messy data pipelines 🖥️🔧. Once office boredom melted my brain 🫠, I jumped right back into an optics PhD 🎓. 
 
-I set out to become a Data Scientist 📈, determined to predict the future with neat algorithms ✨. Then reality introduced me to deployment. That single word rerouted my life. Before I knew it, I was wrestling backend frameworks 💻, fixing pipelines, and becoming an accidental developer 🛠️. Apparently I enjoy suffering in multiple dimensions.
+Now I use AI to get light beams to reveal their secrets ✨—which is either a smart career strategy 🧠 or a PhD-level commitment issue 🤷‍♂️.
 
-Eventually, monotony won the battle against my attention span, and my path twisted again. Now I’m a PhD student 🎓 in Optical Engineering, right back where the light beams live. It looks chaotic, but it isn’t. My old optical foundation and my newer machine-learning obsession finally teamed up.
-
-These days, I use deep learning to push the limits of optical design, essentially getting photons to reveal more through my models 👑. Whether that’s brilliance or a sign of long-term commitment issues is up for debate, but the skills really do blend together 🤝.
-
-### 🔭: Optical Design Tools :
+### 🔦: Optical Design Tools :
 <div>
   <img src="https://avatars.githubusercontent.com/u/272874188?s=200&v=4" title="Optiland" alt="Optiland" width="50" height="50"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/66023092?s=200&v=4" title="Ansys Zemax OpticStudio" alt="Ansys Zemax OpticStudio" width="50" height="50"/>&nbsp;
