@@ -1,5 +1,5 @@
 ### Multi-Disciplinary Engineer 
-#### Specializing in Optics, Data Science, and Back-end Development
+#### Specializing in Optics, but (and) also a little in Data Science, and Back-end Development
 -------------
 ### Hi I'm Armin 👋🏼
 
